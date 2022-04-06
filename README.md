@@ -31,7 +31,7 @@ La dessus pas trop sûr mais je vais dire non
 ## Question 8 :
 
 Comme dit plus haut, je suis pas sûr car il est dit qu'il faut **avoir plein de petites interfaces** plutôt qu'une globale mais dans notre cas on en a que 2 (Pokemon & Type), donc après je sais que tout est relatif mais pour moi c'est pas ce qu'on peut considérer comme **'plein de petites interfaces'**.
-Mais bon même si on a respecter le *principe de responsabilité unique*, on peut ne pas respecter le *principe de ségrégation des interfaces* l'est aussi.
+Mais bon même si on a respecter le *principe de responsabilité unique*, on peut ne pas respecter le *principe de ségrégation des interfaces*.
 
 ## Question 9 :
 
