@@ -110,7 +110,3 @@ proprietaire!: Dresseur
    @enduml
 }
 ```
-
-## Question 12 :
-
-Lien [GitHub]()
